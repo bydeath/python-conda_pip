@@ -1,4 +1,4 @@
-name: example-environment
+name: nb_conda_kernels
 channels:
   - conda-forge
 dependencies:
@@ -10,3 +10,4 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - nb_conda_kernels
